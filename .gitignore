@@ -29,7 +29,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 
 # vercel
 .vercel
@@ -43,7 +42,7 @@ next-env.d.ts
 storybook-static
 
 #.vscode folder
-.vscode
 
 #yarn.lock para evitar conflito com npm
 yarn.lock
+config.bat
