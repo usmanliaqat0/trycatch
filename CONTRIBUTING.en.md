@@ -14,7 +14,7 @@ Here are the rules, standards and agreements to ensure that everyone can collabo
 Tasks are organized into cards/issues, which can be divided into sub-issues, when necessary, for better distribution of work.
 
 ⚠️ **Important:**
-Those interested in contributing do not create or assume the issue/card on their own.
+Those interested in contributing do not create or take responsibility for the issue/card on their own.
 
 ### 📌 Correct assignment flow
 
@@ -60,7 +60,7 @@ This flow guarantees control, equity in the distribution and traceability of res
 
 ### 🌱 Feature branches and fixes:
 - `feat/feature-name`: new functionality (Ex: `feat/criar-login`)
-- `fix/descricao-da-correcao`: bug fix (Ex: `fix/erro-no-formulario`)
+- `fix/descricao-da-correcao`: bug correction (Ex: `fix/erro-no-formulario`)
 - `docs/descricao`: change in documentation  
 - `style/descricao`: formatting without code changes  
 - `refactor/descricao`: refactoring without changing behavior  
