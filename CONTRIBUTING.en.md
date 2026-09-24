@@ -60,7 +60,7 @@ This flow guarantees control, equity in the distribution and traceability of res
 
 ### 🌱 Feature branches and fixes:
 - `feat/feature-name`: new functionality (Ex: `feat/criar-login`)
-- `fix/descricao-da-correcao`: bug fix (Ex: `fix/erro-no-formulario`)
+- `fix/descricao-da-correcao`: bug correction (Ex: `fix/erro-no-formulario`)
 - `docs/descricao`: change in documentation  
 - `style/descricao`: formatting without code changes  
 - `refactor/descricao`: refactoring without changing behavior  
