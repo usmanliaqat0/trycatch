@@ -14,7 +14,7 @@ Here are the rules, standards and agreements to ensure that everyone can collabo
 Tasks are organized into cards/issues, which can be divided into sub-issues, when necessary, for better distribution of work.
 
 ⚠️ **Important:**
-Those interested in contributing do not create or assume the issue/card on their own.
+Those interested in contributing do not create or take responsibility for the issue/card on their own.
 
 ### 📌 Correct assignment flow
 
