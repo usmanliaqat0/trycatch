@@ -82,7 +82,7 @@ npm install
 
 ### 🔐 4. Configure the `.env` file
 
-Create a .env.local file at the root of the project based on the example below (Next.js reads this file automatically and it is already configured not to upload to your GitHub):
+Create a .env.local file in the root of the project based on the example below (Next.js reads this file automatically and it is already configured not to upload to your GitHub):
 
 ```env
 # 👉 Option 1: Shared bench (Neon - recommended for the team)
@@ -184,7 +184,7 @@ CLOUDINARY API SECRET=sua api_secret
 npm run dev
 ```
 
-Open the browser at: [http://localhost:3000](http://localhost:3000)
+Open your browser at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -259,4 +259,4 @@ The project uses Prisma to model the PostgreSQL database.
 
 Check out our [CONTRIBUTORS.md](./CONTRIBUTORS.md) archive to meet all the amazing contributors who helped build this project. Feel free to open an issue or PR! 💜
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+This project follows the specification of [all-contributors](https://github.com/all-contributors/all-contributors). Contributions of any kind are welcome!
