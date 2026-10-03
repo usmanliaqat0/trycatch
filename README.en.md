@@ -82,7 +82,7 @@ npm install
 
 ### 🔐 4. Configure the `.env` file
 
-Create a .env.local file at the root of the project based on the example below (Next.js reads this file automatically and it is already configured not to upload to your GitHub):
+Create a .env.local file in the root of the project based on the example below (Next.js reads this file automatically and it is already configured not to upload to your GitHub):
 
 ```env
 # 👉 Option 1: Shared bench (Neon - recommended for the team)
@@ -184,7 +184,7 @@ CLOUDINARY API SECRET=sua api_secret
 npm run dev
 ```
 
-Open the browser at: [http://localhost:3000](http://localhost:3000)
+Open your browser at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
