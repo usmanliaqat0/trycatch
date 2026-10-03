@@ -62,10 +62,10 @@ This flow guarantees control, equity in the distribution and traceability of res
 - `feat/feature-name`: new functionality (Ex: `feat/criar-login`)
 - `fix/descricao-da-correcao`: bug fix (Ex: `fix/erro-no-formulario`)
 - `docs/descricao`: change in documentation  
-- `style/descricao`: formatting without code changes  
+
 - `refactor/descricao`: refactoring without changing behavior  
 - `test/description`: tests added or corrected  
-- `chore/description`: maintenance (dependencies, configs, etc.)
+
 
 ---
 
